@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../face_view_area"
+		},
+		{
+			"path": "../../serial"
+		}
+	],
+	"settings": {}
+}
